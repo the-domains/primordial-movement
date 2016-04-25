@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Primordial Movement]]></title>
         <description><![CDATA[Primordial Movement]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/primordial-movement/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 09:37:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 09:38:34 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/primordial-movement/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f89c27a5-f846-4d0b-82e5-1d8bf4aa0982.jpg">]]></description>
+            <link>https://thegrid.ai/primordial-movement/strength-flexibility-coordination-freedom-of-movement/index.html</link>
+            <guid isPermaLink="false">23f88946-baf4-4ed9-987a-d5f51b89e880</guid>
+            <pubDate>Mon, 25 Apr 2016 09:38:34 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/5267d974-a029-4501-8e0b-280373a02905.jpg">]]></description>
-            <link>undefinedoffers-a-holistic-approach-for-people-looking-to-awaken-thei/index.html</link>
+            <link>https://thegrid.ai/primordial-movement/offers-a-holistic-approach-for-people-looking-to-awaken-thei/index.html</link>
             <guid isPermaLink="false">c8646049-f377-411f-b226-980e22a5aa25</guid>
             <pubDate>Mon, 25 Apr 2016 09:37:57 GMT</pubDate>
         </item>
