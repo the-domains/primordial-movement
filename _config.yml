@@ -1,0 +1,28 @@
+name: Primordial Movement
+favicon: null
+layout_spectrum: 0.6234923074953258
+typography_spectrum: 0.7169562084600329
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.770344183081761
+  lightness: 0.42683154344558716
+  saturation: 0.7557604855392128
+  rhythmicContrast: 0.33613656274974346
+purpose: []
